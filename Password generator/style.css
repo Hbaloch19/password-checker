@@ -1,0 +1,48 @@
+div{
+ background-color:rgb(91, 163, 245);  
+ width: 550px;
+ height: 290px;
+ position: relative;
+ right: -520px;
+ top: 170px;
+ border-radius: 15px;
+ border: rgb(245, 234, 234) 2px;
+ border-style: solid;
+}
+div:hover{
+    background-color: rgb(60, 146, 244); 
+    cursor: pointer;
+}
+body{
+    background-image: url(image\ copy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: rgb(255, 255, 255);
+    position: relative;
+    right: -140px;
+    position: relative;
+    top:60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#check{
+    
+    position: relative;
+    right: -235px;
+    width: 90px;
+    top: 60px;
+}
+#password{
+    position: relative;
+   right: -190px;
+   top:60px ;
+}
+#result{
+    position: relative;
+    right: -180px;
+    top:60px ;
+}
+
+
